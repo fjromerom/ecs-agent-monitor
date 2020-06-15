@@ -1,4 +1,4 @@
-# ecs-agent-monitor
+# ECS Agent Monitor
 
 ### Context
 
